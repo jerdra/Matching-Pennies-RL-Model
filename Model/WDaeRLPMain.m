@@ -3,6 +3,9 @@
 %persistence bonus parameter
 %Based off of Daeyoel Lee et al. 2004
 
+%REQUIRED PARAMETERS: [SUB_ID, GROUP_ID, CHOICE VECTOR(S), REWARD VECTOR] in matrix file. 
+%SEE TabRLData to see how the structure is formatted so you can adapt your data!
+
 clear;
 %parentfolder= '';
 %Load in data
